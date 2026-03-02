@@ -1,1 +1,13 @@
+# Node modules
 node_modules/
+
+# Build do Next.js
+.next/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Ambiente
+.env

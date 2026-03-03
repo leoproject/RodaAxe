@@ -1,5 +1,23 @@
+import CapoeiristaButton from "./capoeirabutton";
 function Home(){
-    return <h1>Author Leonardo Silva</h1>
+    return (
+    <div>
+       <h1 style={{ textAlign: "center" }}>
+        Inicio da plataforma RodaAxê
+      </h1>
+
+
+      <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        marginTop: "100px",
+      }}
+    >
+        <CapoeiristaButton />
+      </div>
+    </div>
+  );
 }
 
 export default Home;

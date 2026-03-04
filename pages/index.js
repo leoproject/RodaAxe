@@ -3,7 +3,7 @@ function Home(){
     return (
     <div>
        <h1 style={{ textAlign: "center" }}>
-        Inicio da plataforma RodaAxê
+        Inicio da plataforma RodaAxê primeira palataforma
       </h1>
 
 

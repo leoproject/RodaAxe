@@ -3,7 +3,7 @@ node_modules/
 
 # Build do Next.js
 .next/
-.next
+
 
 # Logs
 logs
